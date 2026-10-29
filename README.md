@@ -1,6 +1,13 @@
 # ICE3 Water Demo
 
-This repository is reserved for the ICE3 water-industry demonstration workspace.
+> Document ID: ICE3-WATER-RM-001
+>
+> Status: Placeholder
+>
+> Owner: ICE3 Water Demo maintainers
+
+This repository is reserved for the ICE3 water-industry demonstration
+workspace. No public API, commands, or architecture exist yet.
 
 ## AI-assisted development
 
