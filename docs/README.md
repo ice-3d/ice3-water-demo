@@ -6,12 +6,12 @@
 >
 > Owner: ICE3 Water Demo maintainers
 
-## 当前状态
+## 1. 当前状态
 
 本仓库仍是预留的水务行业演示 workspace，当前没有批准的演示场景、公开 API、
 command、package structure 或架构。
 
-## 文档
+## 2. 文档
 
 | ID | 标题 | Status | 用途 |
 |---|---|---|---|
